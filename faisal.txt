@@ -1,0 +1,4 @@
+This text file belongs to Faisal Ashfaq and it cannot be seen by anyone.
+
+To activate a virtual environment = .\env\Scripts\activate.ps1
+To activate Flask = .\app.py
